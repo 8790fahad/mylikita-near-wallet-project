@@ -1,0 +1,15 @@
+{
+  "name": "fahad",
+  "version": "1.0.0",
+  "description": "dapp",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  },
+  "repository": "https://github.com/8790fahad/mylikita-smart-contract.git",
+  "author": "8790fahad <8790fahadado@gmail.com>",
+  "dependencies": {
+    "near-cli": "^3.4.2"
+  }
+}
