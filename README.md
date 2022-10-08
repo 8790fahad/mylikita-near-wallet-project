@@ -34,6 +34,12 @@ Finally if you want to view the entire consultation record store then you can ca
 
 for more info:
 
+Markup : ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+
+Markup : <details>
+           <summary>Title 1</summary>
+           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+         </details>
 https://mylikita.clinic/
 https://mylikitahealth.medium.com/mylikita-receives-a-10-000-grant-from-the-near-foundation-3db18e928e15
 https://mylikitahealth.medium.com/how-mylikita-implements-blockchain-using-the-near-protocol-a1a84bb06329
