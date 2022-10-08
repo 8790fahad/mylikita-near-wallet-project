@@ -22,6 +22,9 @@ Example: setConsultation({"consultation": {
     treatment_plan_status: 'pending',
     treated_by: ''
   }})
+ 
+Therefore, one's getConsultation function is call it would return
 
-Therefore, one
+![return image](https://github.com/emaitee/mylikita-near-wallet-project/main/src/img/Screenshot from 2022-10-08 15-45-12.png?raw=true)
+
 
