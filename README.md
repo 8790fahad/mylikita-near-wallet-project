@@ -27,6 +27,6 @@ Therefore, one's getConsultation function is call it would return
 
 !['return image']()
 
-!['login page'](https://github.com/emaitee/mylikita-near-wallet-project/main/src/img/image1.png?raw=true)
+!['login page'](https://github.com/emaitee/mylikita-near-wallet-project/main/img/image1.png?raw=true)
 
 
