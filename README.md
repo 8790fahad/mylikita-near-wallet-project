@@ -31,8 +31,7 @@ Finally if you want to view the entire consultation record store then you can ca
 
 !['login page'](https://github.com/emaitee/mylikita-near-wallet-project/blob/main/img/image1.png)
 
-Markup : <details>
-
+<details>
 <summary>For more info</summary>
 <p>https://mylikita.clinic/</p>
 <p>https://mylikitahealth.medium.com/mylikita-receives-a-10-000-grant-from-the-near-foundation-3db18e928e15</p>
