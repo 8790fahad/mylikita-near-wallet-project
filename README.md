@@ -27,4 +27,6 @@ Therefore, one's getConsultation function is call it would return
 
 !['login page'](https://github.com/emaitee/mylikita-near-wallet-project/blob/main/img/image2.png)
 
+Finally if you want to view the entire consultation record store then you can call getConsultationHistory
 
+!['login page'](https://github.com/emaitee/mylikita-near-wallet-project/blob/main/img/image1.png)
