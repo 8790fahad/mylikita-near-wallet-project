@@ -31,20 +31,10 @@ Finally if you want to view the entire consultation record store then you can ca
 
 !['login page'](https://github.com/emaitee/mylikita-near-wallet-project/blob/main/img/image1.png)
 
-for more info:
-
-Markup : ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
-
 Markup : <details>
-<summary>Title 1</summary>
+
+<summary>For more info</summary>
 <p>https://mylikita.clinic/</p>
+<p>https://mylikitahealth.medium.com/mylikita-receives-a-10-000-grant-from-the-near-foundation-3db18e928e15</p>
+<p>https://mylikitahealth.medium.com/how-mylikita-implements-blockchain-using-the-near-protocol-a1a84bb06329</p>
 </details>
-
-         Markup : [text goes here](#section_name)
-          section_title<a name="section_name"></a>
-
-          Markup :  [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
-
-https://mylikita.clinic/
-https://mylikitahealth.medium.com/mylikita-receives-a-10-000-grant-from-the-near-foundation-3db18e928e15
-https://mylikitahealth.medium.com/how-mylikita-implements-blockchain-using-the-near-protocol-a1a84bb06329
