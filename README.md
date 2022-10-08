@@ -43,6 +43,8 @@ Markup : <details>
          Markup : [text goes here](#section_name)
           section_title<a name="section_name"></a>
 
+          Markup :  [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
+
 https://mylikita.clinic/
 https://mylikitahealth.medium.com/mylikita-receives-a-10-000-grant-from-the-near-foundation-3db18e928e15
 https://mylikitahealth.medium.com/how-mylikita-implements-blockchain-using-the-near-protocol-a1a84bb06329
