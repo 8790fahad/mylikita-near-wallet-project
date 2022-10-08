@@ -25,6 +25,8 @@ Example: setConsultation({"consultation": {
  
 Therefore, one's getConsultation function is call it would return
 
-![return image](https://github.com/emaitee/mylikita-near-wallet-project/main/src/img/Screenshot from 2022-10-08 15-45-12.png?raw=true)
+!['return image']()
+
+!['login page'](https://github.com/emaitee/mylikita-near-wallet-project/main/src/img/image1.png?raw=true)
 
 
